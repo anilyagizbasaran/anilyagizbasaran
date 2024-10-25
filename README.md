@@ -1,4 +1,4 @@
- class AboutMe 
+    class AboutMe 
     {
         // Personal Information
         string Name = "Anıl Yağız Başaran"; 
