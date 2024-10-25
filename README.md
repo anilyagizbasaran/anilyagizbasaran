@@ -24,4 +24,6 @@
         }
 
     }
-[![Anıl's GitHub stats](https://github-readme-stats.vercel.app/api?username=anilyagizbasaran&show_icons=true&theme=radical)](https://github.com/anilyagizbasaran)
+
+[![Anıl'ın GitHub İstatistikleri (Karanlık Mod)](https://github-readme-stats.vercel.app/api?username=anilyagizbasaran&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/anilyagizbasaran/github-readme-stats#gh-dark-mode-only)
+
