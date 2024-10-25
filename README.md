@@ -52,31 +52,12 @@
             DisplayProgressBar("SQL", SQLLevel);
             DisplayProgressBar(".NET", DotNetLevel);
         }
-    
-        // Helper method to display a progress bar
-        void DisplayProgressBar(string skill, int level) 
-        {
-            Console.Write(skill + ": ");
-            int progressBarLength = 20; // Length of the progress bar
-            int filledLength = (int)((level / 100.0) * progressBarLength);
-            string progressBar = new string('█', filledLength) + new string('░', progressBarLength - filledLength);
-            Console.WriteLine($"[{progressBar}] {level}%");
-        }
-    
-        // Web Development method with a simplified loop 
-        void DevelopWebsite() 
-        { 
-            string[] steps = { 
-                "Planning the website... 📝", 
-                "Designing the UI... 🎨", 
-                "Coding the frontend... 💻", 
-                "Setting up the backend... ⚙️", 
-                "Testing and deploying... 🚀" 
-            };
-    
+
             foreach (var step in steps) 
             { 
                 Console.WriteLine(step); 
             } 
         }  
+       
     }
+[![Anıl's GitHub stats](https://github-readme-stats.vercel.app/api?username=anilyagizbasaran)](https://github.com/anilyagizbasaran)
