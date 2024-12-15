@@ -2,12 +2,11 @@
     {
         // Personal Information
         string Name = "Anıl Yağız Başaran"; 
-        string Role = "👨‍🎓 Computer Engineering Student & 💼 Freelancer"; 
-        string Motto = "🌟 Building the future, one line of code at a time."; 
+        string Role = "👨‍🎓 Computer Engineering Student & 💼 Freelancer";
         string Website = "⏳ Coming Soon!"; 
 
         // Skills
-        string[] Skills = { "C#", "Python", "SQL", ".NET" };
+        string[] Skills = { "C#","SQL",".NET" };
 
         // 📬 Contact Info
         string LinkedIn = "linkedin.com/in/anilyagizbasaran"; 
@@ -19,8 +18,7 @@
 
         void Code() 
         { 
-            Console.WriteLine("Coding and freelancing from Istanbul 🌍"); 
-            Console.WriteLine("🌟 " + Motto); 
+            Console.WriteLine("Coding and freelancing from Istanbul 🌍");
         }
 
     }
