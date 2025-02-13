@@ -1,19 +1,22 @@
     class AboutMe 
     {
         // Personal Information
+        /*
+        "Hello"! I develop backend projects using .NET Core and C#. 
+        Recently, I have been focusing on integrating AI into my projects and improving code efficiency.
+         */
         string Name = "Anıl Yağız Başaran"; 
         string Role = "👨‍🎓 Computer Engineering Student & 💼 Freelancer";
         string Website = "⏳ Coming Soon!"; 
 
         // Skills
-        string[] Skills = { "C#","SQL",".NET" };
+        string[] Skills = { "C#","SQL",".NET Core","Git" };
 
         // 📬 Contact Info
         string LinkedIn = "linkedin.com/in/anilyagizbasaran"; 
         string Email = "yagizzanil@gmail.com";
     
         // 🚀 Experience
-        int YearsOfExperience = 5; 
         int FreelanceExperience = 2;
 
         void Code() 
